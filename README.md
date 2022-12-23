@@ -7,3 +7,13 @@ A tool for employees to generate random passwords within parameters that they op
 ## Usage
 
 Employees can click the red "Generate Password" button to begin the criteria selection process. The site will then begin displaying prompts, one-by-one and one for each criteria, to which employees only have to select "OK" to make their selection. Once all prompts have been completed, a randomized password will be displayed for employees to copy.
+
+## Page Link and Appearance
+
+[Create your password here!](url)
+
+![password generator screenshot](location)
+
+## License
+
+Licensed under the MIT License
