@@ -10,9 +10,9 @@ Employees can click the red "Generate Password" button to begin the criteria sel
 
 ## Page Link and Appearance
 
-[Create your password here!](url)
+[Create your password here!](https://navidliwa.github.io/password-generator/)
 
-![password generator screenshot](location)
+![password generator screenshot](./assets/site-screenshot.jpg)
 
 ## License
 
