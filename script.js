@@ -31,7 +31,7 @@ function generatePassword() {
   }
 
   // Prompts user for numeric characters
-  if (confirm("Should numbers be included in your password")) {
+  if (confirm("Should numbers be included in your password?")) {
     ranPass += "0123456789";
   }
 
